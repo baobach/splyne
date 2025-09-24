@@ -14,7 +14,8 @@ classifiers = [
 ]
 license = {text = "MIT"}
 dependencies = [
-  "typer"
+  "typer",
+  "music21 (>=9.7.1,<10.0.0)"
 ]
 requires-python = ">= 3.10"
 

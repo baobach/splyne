@@ -1,0 +1,62 @@
+X:1
+T:Fur Elise
+T:  Für Elise
+T:Beethoven                                
+C:Beethoven
+%%score { 1 | 2 }
+L:1/8
+Q:3/8=40
+M:3/8
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+ e/^d/ |: e/^d/e/B/=d/c/ | A z/ C/E/A/ | B z/ E/^G/B/ | c z/ E/e/^d/ | e/^d/e/B/=d/c/ | %6
+ A z/ C/E/A/ | B z/ D/c/B/ |1 [CA] z e/^d/ :|2 [CA] z/ B/c/d/ |: e3/2 G/f/e/ | d3/2 F/e/d/ | %12
+ c3/2 E/d/c/ | B z/ E/e/ z/ | z/ e/e'/ z/ z/ ^d/ | e/ z/ z/ ^d/e/d/ | e/^d/e/B/=d/c/ | %17
+ A z/ C/E/A/ | B z/ E/^G/B/ | c z/ E/e/^d/ | e/^d/e/B/=d/c/ | A z/ C/E/A/ | B z/ D/c/B/ |1 %23
+ [CA] z/ B/c/d/ :|2 [CA] z/ [Ec]/[Fc]/[EGc]/ ||{FA} c2 f/>e/ | ed _b/>a/ | a/g/f/e/d/c/ | %28
+ _BA{/B} A/4G/4A/4B/4 | c2 d/^d/ | e>ef/A/ | c2{dcBc} d/>B/ | %32
+ c/4g/4G/4g/4 A/4g/4B/4g/4 c/4g/4d/4g/4 | e/4g/4c'/4b/4 a/4g/4f/4e/4 d/4g/4f/4d/4 | %34
+ c/4g/4G/4g/4 A/4g/4B/4g/4 c/4g/4d/4g/4 | e/4g/4c'/4b/4 a/4g/4f/4e/4 d/4g/4f/4d/4 | %36
+ e/4f/4e/4^d/4 e/4B/4e/4d/4 e/4B/4e/4d/4 | e3/2 B/e/^d/ | e3/2 B/e/ z/ | z/ ^d/e/ z/ z/ d/ | %40
+ e/^d/e/B/=d/c/ | A z/ C/E/A/ | B z/ E/^G/B/ | c z/ E/e/^d/ | e/^d/e/B/=d/c/ | A z/ C/E/A/ | %46
+ B z/ D/c/B/ | [CA] z/ B/c/d/ | e3/2 G/f/e/ | d3/2 F/e/d/ | c3/2 E/d/c/ | B z/ E/e/ z/ | %52
+ z/ e/e'/ z/ z/ ^d/ | e/ z/ z/ ^d/e/d/ | e/^d/e/B/=d/c/ | A z/ C/E/A/ | B z/ E/^G/B/ | %57
+ c z/ E/e/^d/ | e/^d/e/B/=d/c/ | A z/ C/E/A/ | B z/ D/c/B/ | [CA] z2 | [EG_B^c]3 | %63
+ [FAd]2 [^ce]/[df]/ | [^Gdf]2 [Gdf] | [Ace]3 | [Fd]2 [Ec]/[DB]/ | [C^FA]2 [CA] | [CA][Ec][DB] | %69
+ [CA]3 | [EG_B^c]3 | [FAd]2 [^ce]/[df]/ | [df]2 [df] | [df]3 | [G_e]2 [Fd]/[_Ec]/ | [DF_B]2 [DFA] | %76
+ [DF^G]2 [DFG] | [CEA]2 z | [EB] z2 | (3A,/C/E/ (3A/c/e/ (3d/c/B/ | %80
+ (3A/c/e/ (3a/c'/e'/ (3d'/c'/b/ |!8va(! (3A/c/e/ (3a/c'/e'/ (3d'/c'/b/!8va)! | %82
+ (3_b/a/^g/ (3=g/^f/=f/ (3e'/^d'/=d'/ | (3^c'/=c'/b/ (3_b/a/^g/ (3=g/^f/=f/ | e/^d/e/B/=d/c/ | %85
+ A z/ C/E/A/ | B z/ E/^G/B/ | c z/ E/e/^d/ | e/^d/e/B/=d/c/ | A z/ C/E/A/ | B z/ D/c/B/ | %91
+ [CA] z/ B/c/d/ | e3/2 G/f/e/ | d3/2 F/e/d/ | c3/2 E/d/c/ | B z/ E/e/ z/ | z/ e/e'/ z/ z/ ^d/ | %97
+e/ z/ z/ ^d/e/d/ | e/^d/e/B/=d/c/ | A z/ C/E/A/ | B z/ E/^G/B/ | c z/ E/e/^d/ | e/^d/e/B/=d/c/ | %103
+ A z/ C/E/A/ | B z/ D/c/B/ | [CA]2 x |] %106
+V:2
+ z |: z3 | A,,/E,/A,/ z/ z | E,,/E,/^G,/ z/ z | A,,/E,/A,/ z/ z | z3 | A,,/E,/A,/ z/ z | %7
+ E,,/E,/^G,/ z/ z |1 A,,/E,/A,/ z/ z :|2 A,,/E,/A,/ z/ z |: C,/G,/C/ z/ z | G,,/G,/B,/ z/ z | %12
+ A,,/E,/A,/ z/ z | E,,/E,/E/ z/ z/[K:treble] E/ |e/ z/ z/ ^d/e/ z/ | z/ ^d/e/ z/ z |[K:bass] z3 | %17
+ A,,/E,/A,/ z/ z | E,,/E,/^G,/ z/ z | A,,/E,/A,/ z/ z | z3 | A,,/E,/A,/ z/ z | E,,/E,/^G,/ z/ z |1 %23
+ A,,/E,/A,/ z/ z :|2 A,,/E,/A,/ [_B,C]/[A,C]/[G,B,C]/ || F,/A,/C/A,/C/A,/ | F,/_B,/D/B,/D/B,/ | %27
+ F,/E/[F,G,_B,]/E/[F,G,B,]/E/ | F,/A,/C/A,/C/A,/ | F,/A,/C/A,/C/A,/ | E,/A,/C/A,/[D,D]/F,/ | %31
+ G,/E/G,/E/G,/F/ |[K:treble] [CE] z/ [FG]/[EG]/[DFG]/ | [CEG][K:bass] [F,A,][G,B,] | %34
+[K:treble] C z/ [FG]/[EG]/[DFG]/ | [CEG][K:bass] [F,A,][G,B,] | [^G,B,] z2 | z3 | %38
+[K:treble] z2 z/ ^d/ |e/ z/ z/ ^d/e/ z/ |[K:bass] z3 | A,,/E,/A,/ z/ z | E,,/E,/^G,/ z/ z | %43
+ A,,/E,/A,/ z/ z | z3 | A,,/E,/A,/ z/ z | E,,/E,/^G,/ z/ z | A,,/E,/A,/ z/ z | C,/G,/C/ z/ z | %49
+ G,,/G,/B,/ z/ z | A,,/E,/A,/ z/ z | E,,/E,/E/ z/ z/[K:treble] E/ | e/ z/ z/ ^d/e/ z/ | %53
+ z/ ^d/e/ z/ z |[K:bass] z3 | A,,/E,/A,/ z/ z | E,,/E,/^G,/ z/ z | A,,/E,/A,/ z/ z | z3 | %59
+ A,,/E,/A,/ z/ z | E,,/E,/^G,/ z/ z | A,,/A,,/A,,/A,,/A,,/A,,/ | A,,/A,,/A,,/A,,/A,,/A,,/ | %63
+ A,,/A,,/A,,/A,,/A,,/A,,/ | A,,/A,,/A,,/A,,/A,,/A,,/ | A,,/A,,/A,,/A,,/A,,/A,,/ | %66
+ [D,,A,,]/[D,,A,,]/[D,,A,,]/[D,,A,,]/[D,,A,,]/[D,,A,,]/ | %67
+ [^D,,A,,]/[D,,A,,]/[D,,A,,]/[D,,A,,]/[D,,A,,]/[D,,A,,]/ | %68
+ [E,,A,,]/[E,,A,,]/[E,,A,,]/[E,,A,,]/[E,,^G,,]/[E,,G,,]/ | [A,,,A,,]/A,,/A,,/A,,/A,,/A,,/ | %70
+ A,,/A,,/A,,/A,,/A,,/A,,/ | A,,/A,,/A,,/A,,/A,,/A,,/ | A,,/A,,/A,,/A,,/A,,/A,,/ | %73
+ _B,,/B,,/B,,/B,,/B,,/B,,/ | _B,,/B,,/B,,/B,,/B,,/B,,/ | _B,,/B,,/B,,/B,,/B,,/B,,/ | %76
+ B,,/B,,/B,,/B,,/B,,/B,,/ | C,2 z | [E,^G,] z2 | A,,, z [A,CE] | [A,CE] z [A,CE] | %81
+ [A,CE] z [A,CE] | [A,CE] z2 | z3 | z3 | A,,/E,/A,/ z/ z | E,,/E,/^G,/ z/ z | A,,/E,/A,/ z/ z | %88
+ z3 | A,,/E,/A,/ z/ z | E,,/E,/^G,/ z/ z | A,,/E,/A,/ z/ z | C,/G,/C/ z/ z | G,,/G,/B,/ z/ z | %94
+ A,,/E,/A,/ z/ z | E,,/E,/E/ z/ z/[K:treble] E/ | e/ z/ z/ ^d/e/ z/ | z/ ^d/e/ z/ z |[K:bass] z3 | %99
+ A,,/E,/A,/ z/ z | E,,/E,/^G,/ z/ z | A,,/E,/A,/ z/ z | z3 | A,,/E,/A,/ z/ z | E,,/E,/^G,/ z/ z | %105
+ [A,,,A,,]2 x |] %106
+

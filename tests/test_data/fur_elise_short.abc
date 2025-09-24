@@ -1,0 +1,14 @@
+X:1
+T:Fur Elise
+T:  Für Elise
+T:Beethoven
+C:Beethoven
+%%score {1}
+L:1/8
+Q:3/8=60
+M:3/8
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ e/^d/ |: e/^d/e/B/=d/c/ | A z/ C/E/A/ | B z/ E/^G/B/ | c z/ E/e/^d/ | e/^d/e/B/=d/c/ | %6
+ A z/ C/E/A/ | B z/ D/c/B/ |1 A z e/^d/ :|2 A z/ B/c/d/ |: e3/2 G/f/e/ | d3/2 F/e/d/ | %12
